@@ -32,7 +32,7 @@ O token é guardado por 1 hora e depois é feito logout, sendo necessário login
 
 1. Clone este repositório:
 
-```git clone ```
+```git clone https://github.com/NewtonPerazzo/jarvis-test.git```
 
 2. Acesse a pasta do projeto:
 
