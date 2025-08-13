@@ -42,7 +42,7 @@ O token é guardado por 1 hora e depois é feito logout, sendo necessário login
 
 ```yarn```
 
-4. Crie um arquivo ```.env```, copie as informações do arquivo ```.env.example```e cole no ```.env``.
+4. Crie um arquivo ```.env```, copie as informações do arquivo ```.env.example```e cole no ```.env```.
 
 5. Inicie o servidor:
 
@@ -50,4 +50,4 @@ O token é guardado por 1 hora e depois é feito logout, sendo necessário login
 
 6. Faça login com e-mail e senha do arquivo ```.env```.
 
-7. projeto será aberto na URL `http://localhost:5173/`.
+7. O projeto será aberto na URL `http://localhost:5173/`.
